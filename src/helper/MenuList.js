@@ -18,12 +18,12 @@ export const MenuList = [
 
   },
   {
-    name: "Veg Biriyany",
+    name: " Biriyani",
     image: biriyani,
     price: 256.53,
   },
   {
-    name: "salad",
+    name: "Salad",
     image: salad,
     price: 17.99,
     
